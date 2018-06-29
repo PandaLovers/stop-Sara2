@@ -5,7 +5,7 @@
  def game():
  
  print ("~.~.~.~.~.~.")
- print ("Welcome to Sto Sara")
+ print ("Welcome to Stop Sara")
  print ("~.~.~.~.~.~.")
  
  time.sleep(3)
@@ -35,5 +35,5 @@ if ch3 in['next','Next','NEXT']
      else:
      print("You have chosen to search. While your walking you found a car! Would you like to drive it or continue to search? To continue searching press S, to drive press D")
 if ch5 in ['D','d']  
-print("While your driving you see a book do you wish to grab the book and bring it with you or run over it? Press D to continue driving or P to pick yopu the book")
+print("While your driving you see a Phoenix bird! You start collecting feathers and it gets very mad 
 if ch6 in [
