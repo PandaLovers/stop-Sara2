@@ -5,7 +5,7 @@
  def game():
  
  print ("~.~.~.~.~.~.")
- print ("Welcome to stop sara")
+ print ("Welcome to Sto Sara")
  print ("~.~.~.~.~.~.")
  
  time.sleep(3)
@@ -13,12 +13,21 @@
  print ("Sara the scientest is planning to destroy the sun.Sara's sister Sally figured out her plan along with the missing items.Help Sally stop Sara from destroying the sun.Get ready set go save the world.")
  ch1 = str(input("Do you want to start?[y/n]:"))
  
- #STOP SARA
+ #LEVEL ONE
  if ch1 in['y','Y','Yes','YES',''Yes','yes']:
  print("Sadly this is no easy journey.You have to defeat a nature dragon using only an ice gun and firey bow and arrow.To activate the ice gun press I.To activate the bow and arrow press B.Get ready set fight fight fight.")
- ch2=str(input("press I or B"))
- 
-#ICE GUN
-if ch2 in['i','I']
-print ("🐲 ~~~~~~~~🔫")
+ ch2 = str(input("press I or B"))
 
+
+#ICE GUN
+if ch2 in ['i','I']
+print("🐲 ~~~~~~~🔫")
+ 
+ #FIREY BOW AND ARROW
+ if ch2 in['b','B']
+ print("🐲 ~~~~~~~♐")
+ 
+ #LEVEL TWO
+ if ch1 click['Next']
+ print("You have got the first item.But something has happened Sara's friend Sana just happened to have a dragon egg lying around her house and gave it to Sara.But not all hope is lost you can still get the pheonix feather all you have to do is wait till the bird turns to ash then take the feathers you see in the ash but there is a cacth do not let the bird sse you.
+ 
