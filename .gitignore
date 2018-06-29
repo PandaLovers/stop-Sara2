@@ -18,7 +18,6 @@
  print("Sadly this is no easy journey.You have to defeat a nature dragon using only an ice gun and firey bow and arrow.To activate the ice gun press I.To activate the bow and arrow press B.Get ready set fight fight fight.")
  ch2 = str(input("press I or B"))
 
-
 #ICE GUN
 if ch2 in ['i','I']
 print("🐲 ~~~~~~~🔫")
@@ -28,6 +27,13 @@ print("🐲 ~~~~~~~🔫")
  print("🐲 ~~~~~~~♐")
  
  #LEVEL TWO
- if ch1 click['Next']
- print("You have got the first item.But something has happened Sara's friend Sana just happened to have a dragon egg lying around her house and gave it to Sara.But not all hope is lost you can still get the pheonix feather all you have to do is wait till the bird turns to ash then take the feathers you see in the ash but there is a cacth do not let the bird sse you.
- 
+print("Congrats you made it top level two!You have got the first item.But something has happened Sara's friend Sana just happened to have a dragon egg lying around her house and gave it to Sara.But not all hope is lost you can still get the pheonix feather Type Next to continue.")
+if ch3 in['next','Next','NEXT']
+ print("Next you have to get the phoenix feather. You have to climb to the top of Boom Boom Mountain. Press C to climb or S to search around and find an easier way to the top")
+ if ch4 in ['c','C']
+ if ch5 in ['s','S']
+     else:
+     print("You have chosen to search. While your walking you found a car! Would you like to drive it or continue to search? To continue searching press S, to drive press D")
+if ch5 in ['D','d']  
+print("While your driving you see a book do you wish to grab the book and bring it with you or run over it? Press D to continue driving or P to pick yopu the book")
+if ch6 in [
