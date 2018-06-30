@@ -31,9 +31,16 @@ print("Congrats you made it top level two!You have got the first item.But someth
 if ch3 in['next','Next','NEXT']
  print("Next you have to get the phoenix feather. You have to climb to the top of Boom Boom Mountain. Press C to climb or S to search around and find an easier way to the top")
  if ch4 in ['c','C']
- if ch5 in ['s','S']
+ if ch4 in ['s','S']
      else:
      print("You have chosen to search. While your walking you found a car! Would you like to drive it or continue to search? To continue searching press S, to drive press D")
 if ch5 in ['D','d']  
-print("While your driving you see a Phoenix bird! You start collecting feathers and it gets very mad 
-if ch6 in [
+print("While your driving you see a Phoenix bird! You start collecting feathers and it gets very mad. You have to burn the bird!! Luckily you have your firey bow and arrow. Press B to activate") 
+if ch6 in ['b','B']
+print("You have sucsessfully defeated the the bird.To move on to the next level type next.")
+if ch7 in['next', 'Next', 'NEXT', 'n', 'N']
+
+#LEVEL THREE
+print("I would say congrats but Sana also had the feathers.I don't trust her anymore.Anyway there is still one more item.You need to get the sweat of a unicorn and it I am warning you it is not all rainbows and sparkels.To do that you need to tired out the unicorn by typing R.")
+if ch7 in ['r','R','run','RUN']
+print (" You have sucsessfully got the unicorn sweat!Also unicorn sweat is so rare Sana did not have it. Your journey has came to a end but you helped save the world as unknown hero!")
